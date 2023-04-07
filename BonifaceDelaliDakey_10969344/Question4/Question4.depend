@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1680901896 source:e:\cpen201\bonifacedelalidakey_10969344\question4\src\circletype.cpp
+	<iostream>
+	"circleType.h"
+
+1680901708 e:\cpen201\bonifacedelalidakey_10969344\question4\include\circletype.h
+
+1680901808 source:e:\cpen201\bonifacedelalidakey_10969344\question4\src\cylindertype.cpp
+	<iostream>
+	"cylinderType.h"
+
+1680901818 e:\cpen201\bonifacedelalidakey_10969344\question4\include\cylindertype.h
+	"circleType.h"
+
