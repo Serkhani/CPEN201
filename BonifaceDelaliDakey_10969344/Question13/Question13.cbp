@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Question11" />
+		<Option title="Question13" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Question11" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Question13" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -17,7 +17,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Question11" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Question13" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -34,17 +34,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/billType.h" />
-		<Unit filename="include/dateType.h" />
-		<Unit filename="include/doctorType.h" />
-		<Unit filename="include/patientType.h" />
-		<Unit filename="include/personType.h" />
+		<Unit filename="include/bankAccount.h" />
+		<Unit filename="include/checkingAccount.h" />
+		<Unit filename="include/savingsAccount.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/billType.cpp" />
-		<Unit filename="src/dateType.cpp" />
-		<Unit filename="src/doctorType.cpp" />
-		<Unit filename="src/patientType.cpp" />
-		<Unit filename="src/personType.cpp" />
+		<Unit filename="src/bankAccount.cpp" />
+		<Unit filename="src/checkingAccount.cpp" />
+		<Unit filename="src/savingsAccount.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
