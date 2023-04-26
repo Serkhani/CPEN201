@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675588958 source:c:\users\lenovo\desktop\10969344-cpp_lab3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
